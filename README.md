@@ -1,8 +1,8 @@
 # _Qu8iz game_
 
-![Qu9izGame](https://github.com/Abolfazl-Mousavi/pwa-hangman/blob/main/Screenshot%202022-10-20%20220149.png)
+![Qu9izGame](https://github.com/Abolfazl-Mousavi/qu8iz-game/blob/main/Screenshot%202022-10-21%20044716.png)
 
-[Visit the site](https://pwa-hangman.netlify.app/)
+[Visit the site]([https://qu8iz-game.netlify.app/)
 
 ## Technologies Used
 
